@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on a freelance web developer as well as a web development instructor in CoderHouse
 - 🌱 I’m currently learning React.js
+- 👨‍💻 All of my projects are available at [github](https://github.com/Luadanchu?tab=repositories)
 - 📫 How to reach me **lu.adanchu@hotmail.com**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
