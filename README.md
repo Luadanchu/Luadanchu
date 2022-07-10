@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Lucila Adanchú 👋</h1>
+<h1 align="center">I'm Lucila Adanchú - Frontend developer</h1>
 
 - 🔭 I’m currently working on a freelance web developer as well as a web development instructor in CoderHouse
 - 🌱 I’m currently learning React.js
