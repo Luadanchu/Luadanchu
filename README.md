@@ -1,9 +1,5 @@
 <h1 align="center">Hi! I'm Lucila Adanchú 👋</h1>
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a freelance web developer as well as a web development instructor in CoderHouse
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me **lu.adanchu@hotmail.com**
