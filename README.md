@@ -21,6 +21,14 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Luadanchu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luadanchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bickkysahani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ![Snake animation](https://github.com/Luadanchu/Luadanchu/blob/main/github-contribution-grid-snake.svg)
 <!--
