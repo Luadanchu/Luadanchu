@@ -1,7 +1,9 @@
 <h1 align="center">I'm Lucila Adanchú</h1>
-<h2 align="center">Frontend developer</h2>
 
-- 🔭 I’m currently working on a freelance web developer as well as a web development instructor in CoderHouse
+<p>I'm web developer and architect <br/> I've co-created an undertaking of design and manufacturing of vegan leather goods, I'm currently working as a web development instructor in CoderHouse, as well I work like a freelance web developer. <br/> I'm looking for starting my carrer; I'm lookin fordward to make things better and improve day by day. <br/>
+I always take an interest in everything related to design, fashion, urbanism, art, music and books.</p>
+
+
 - 🌱 I’m currently learning React.js
 - 👨‍💻 All of my projects are available at [github](https://github.com/Luadanchu?tab=repositories)
 - 📫 How to reach me **lu.adanchu@hotmail.com**
