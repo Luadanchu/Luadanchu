@@ -1,7 +1,8 @@
 <h1 align="center">I'm Lucila Adanchú</h1>
 <h3 align="center">Web developer and architect</h3>
 
-<p>I've co-created an undertaking of design and manufacturing of vegan leather goods, I'm currently working as a web development instructor in CoderHouse, as well I work like a freelance web developer. <br/> I'm looking for starting my carrer; I'm lookin fordward to make things better and improve day by day. <br/>
+<p>I'm currently working as a web development instructor in CoderHouse, as well I work like a freelance web developer. <br/> 
+I've co-created an undertaking of design and manufacturing of vegan leather goods <br/> I'm looking for starting my carrer; I'm lookin fordward to make things better and improve day by day. <br/>
 I always take an interest in everything related to design, fashion, urbanism, art, music and books.</p>
 
 
